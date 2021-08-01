@@ -1,0 +1,54 @@
+body{margin: 0;
+}
+img{
+	max-width: 100%;
+	border-radius: 10px;
+	box-shadow: 0 05px 30px #b19494;
+}
+.container{
+    width: 1100px;
+    margin: 0 auto;
+   
+}
+.bgcolor{
+	background-color: #feedff;
+}
+h1{
+    font-size: 70px;
+    text-align: center;
+    color: #333;
+    padding: 20px;
+}
+.color1{
+	color: orange;
+}
+.color2{
+	color: seagreen;
+}
+.color3{
+	color: skyblue;
+}
+.color4{
+	color: red;
+}
+.color5{
+	color: purple;
+}
+p{
+	margin: 0;
+	font-size: 20px;
+	padding: 25px;
+	line-height: 1.6;
+	text-align: justify;
+}
+.post{
+
+width: 50%;
+
+float: left;
+}
+
+
+.img{padding: 10px;
+	margin-bottom: 100px;
+}
